@@ -53,6 +53,3 @@ This project is based on concepts learned from a Udemy NLP course. Although no c
 Solidify NLP foundations through hands-on work
 
 Simulate real-world preprocessing pipelines
-
-
-Build portfolio-ready, open-source code
